@@ -1,4 +1,4 @@
-[Vulnversity_Writeup.md](https://github.com/user-attachments/files/32692509/Vulnversity_Writeup.md)
+[Vulnversity_Writeup.md](https://tryhackme.com/room/vulnversity)
 # TryHackMe --- Vulnversity
 
 ## 1. Resumen de la Máquina
