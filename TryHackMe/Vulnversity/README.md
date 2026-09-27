@@ -1,4 +1,4 @@
-[Vulnversity_Writeup.md](https://tryhackme.com/room/vulnversity)
+[Maquina Vulnversity](https://tryhackme.com/room/vulnversity)
 # TryHackMe --- Vulnversity
 
 ## 1. Resumen de la Máquina
