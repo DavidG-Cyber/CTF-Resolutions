@@ -27,8 +27,6 @@ El recorrido documentado en las notas fue:
 12. Uso de `sudo bash -i` para obtener una shell como `root`.
 13. Acceso a `/root` y localización de `3rd.txt`.
 
-> **Nota sobre la evidencia:** las notas contienen los comandos y salidas de terminal disponibles, pero algunas salidas finales no quedaron registradas. En particular, la salida de `cat "second ingredients"` y `cat 3rd.txt` no aparece en el PDF. Por ello, este write-up explica el procedimiento sin inventar el contenido de esos archivos.
-
 ---
 
 ## 2. Fase de Reconocimiento
@@ -831,4 +829,3 @@ ls -l
 cat 3rd.txt
 ```
 
-> **Nota de reproducibilidad:** las direcciones IP que aparecen en las notas no son completamente consistentes: la reverse shell documentada utiliza `192.168.128.13` como IP de conexión del atacante, mientras que posteriormente la salida muestra el objetivo como `10.67.149.225`. Se conservan los valores originales en lugar de modificarlos o asumir que representan exactamente la misma sesión de laboratorio.
