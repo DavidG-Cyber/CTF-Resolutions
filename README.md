@@ -23,6 +23,8 @@ A través de estas máquinas, demuestro competencia práctica con herramientas e
 | Nombre de la Máquina | Dificultad | SO | Enlace al Write-up | Enfoque / Vulnerabilidad |
 | :--- | :---: | :---: | :--- | :--- |
 | Vulnversity | Fácil | Linux | [Leer Write-up](./TryHackMe/Vulnversity) | Upload Bypass / SUID (systemctl) |
+| Pickle Rick | Fácil | Linux | [Leer Write-up](./TryHackMe/Pickle-Rick) | Enumeración Web / Reverse Shell / Sudo Misconfiguration |
+
 
 ### HackTheBox
 *Próximamente...*
