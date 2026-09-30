@@ -23,8 +23,9 @@ A través de estas máquinas, demuestro competencia práctica con herramientas e
 | Nombre de la Máquina | Dificultad | SO | Enlace al Write-up | Enfoque / Vulnerabilidad |
 | :--- | :---: | :---: | :--- | :--- |
 | Vulnversity | Fácil | Linux | [Leer Write-up](./TryHackMe/Vulnversity) | Upload Bypass / SUID (systemctl) |
-| Pickle Rick | Fácil | Linux | [Leer Write-up](./TryHackMe/Pickle-Rick) | Enumeración Web / Reverse Shell / Sudo Misconfigurati|
+| Pickle Rick | Fácil | Linux | [Leer Write-up](./TryHackMe/Pickle-Rick) | Enumeración Web / Reverse Shell / Sudo Misconfiguration |
 | Basic Pentesting | Fácil | Linux | [Leer Write-up](./TryHackMe/Basic-Pentesting) | Enumeración SMB / Fuerza Bruta SSH / Clave SSH / Movimiento Lateral |
+| Brooklyn Nine Nine | Fácil | Linux | [Leer Write-up](./TryHackMe/Brooklyn-Nine-Nine) | FTP Anonymous / Fuerza Bruta SSH / Sudo Misconfiguration / Privilege Escalation |
 
 
 ### HackTheBox
